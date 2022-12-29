@@ -5,7 +5,7 @@ One of my tasks while working as a Wellness Outreach Worker was to analyze our s
 * Used this analysis to plan future mental health events for students (ex. planning de-stress activities before and during finals week due to an increase in student usage of the wellness center during those weeks)
 * Shared analysis with PTSA officers and school administrators to advocate for increased financial support, increased therapeutic staff hiring, and clearance to create proposed mental health events
 
-**Technologies Used:
+**Technologies Used:**
 Excel/Google Sheets, R Studio
 
 ** Data Source:**
